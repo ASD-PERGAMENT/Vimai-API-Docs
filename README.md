@@ -1,3 +1,3 @@
-# Vimai API Documentation
+# Vimai API (ViCore) Documentation
 
-Here will be the documentation of Vimai API.
+Here will be the documentation of ViCore.
